@@ -1,3 +1,0 @@
-public void fun01(){
-	String name;
-}
